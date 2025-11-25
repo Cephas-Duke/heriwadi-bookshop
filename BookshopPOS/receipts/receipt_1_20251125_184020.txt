@@ -1,0 +1,23 @@
+
+==========================================
+        BOOKSHOP POS SYSTEM
+        Your Trusted Book Store
+==========================================
+Date: 2025-11-25 18:40:20
+Sale ID: 1
+Payment: Cash
+==========================================
+
+To Kill a Mockingbird
+  1 x KES 12.99 = KES 12.99
+
+==========================================
+TOTAL:           KES 12.99
+AMOUNT PAID:     KES 13.00
+CHANGE:          KES 0.01
+==========================================
+
+   Thank you for your purchase!
+        Visit us again!
+
+
